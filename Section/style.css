@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-image{
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  width: 100%;
+  height: 400px;
+}
+.main-text{
+  padding: 20px;
+}
+main{
+  width: 840px;
+  margin: 50px auto;
+}
+.main-box1{
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7;
+}
+.main-box2{
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7;
+}
+.main-box3{
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7;
+}
+.main-box4{
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7
+}
